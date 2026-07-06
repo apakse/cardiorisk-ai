@@ -38,7 +38,7 @@ TARGET = "cardiac_arrest"
 
 # ── Page config ────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="CardioRisk AI",
+    page_title="CardioRisk AI-ASTA 624",
     page_icon="❤️",
     layout="wide",
     initial_sidebar_state="expanded"
