@@ -555,14 +555,10 @@ elif page == "ℹ️ About":
     | Num Major Vessels | Degree of coronary artery disease |
     | Thalassemia | Blood disorder affecting oxygen delivery |
 
-    ## Recommended dataset
-    The model was designed for the **UCI Heart Disease Dataset** structure.
-    You can download a free version from:
-    - [Kaggle — Heart Disease UCI](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
-    - [UCI ML Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)
+
 
     ## Disclaimer
-    > This tool is for **educational and research purposes only**. It is not a medical device
+    > This tool is for **educational and research purposes only,**. It is not a medical device
     > and must not be used as a substitute for professional clinical judgement.
-    > All predictions should be reviewed by a qualified healthcare provider.
+    > An assignment submitted for ASTA 624: HEALTH INFORMATICS.
     """)
