@@ -14,7 +14,3 @@ using machine learning trained on patient clinical data.
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Data format
-Download the template from the Upload page, or use:
-https://www.kaggle.com/datasets/ronitf/heart-disease-uci
